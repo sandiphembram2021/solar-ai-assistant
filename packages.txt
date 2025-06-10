@@ -1,0 +1,6 @@
+# System packages for Hugging Face Spaces deployment
+# These packages will be installed via apt-get
+
+# For image processing
+libgl1-mesa-glx
+libglib2.0-0
